@@ -1,7 +1,0 @@
-opencv-python
-opencv-python-headless
-easyocr
-numpy
-streamlit
-textblob
-googletrans==4.0.0-rc1
